@@ -60,3 +60,4 @@ dataJson.forEach(function (item) {
 });
 
 document.getElementById("project-container").innerHTML = raw_html;
+
