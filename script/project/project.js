@@ -1,27 +1,27 @@
 var dataJson = [
   {
-    img: "public/images/BachDuong_thumbnail.png",
+    img: "images/BachDuong_thumbnail.png",
     title: "BachDuong.app",
     paragraph:
       "Enhance your IELTS Speaking and Writing skills with BachDuong. Our platform offers detailed resources and personalized support to help you improve effectively.",
     url: "https://bachduong.app/",
   },
   {
-    img: "public/images/Tedxhcm_thumbnail.png",
+    img: "images/Tedxhcm_thumbnail.png",
     title: "TedxHoChiMinhCity | Tỏ Tường 2024",
     paragraph:
       "Join us for 'Opening Up: Opening Up to Reality,' the inaugural season of TEDxHoChiMinhCity. Experience inspiring stories from diverse speakers, encouraging young minds to explore various perspectives and confront reality with honesty.",
     url: "https://www.tedxhochiminhcity.vn/",
   },
   {
-    img: "public/images/Greenify_thumbnail.png",
+    img: "images/Greenify_thumbnail.png",
     title: "Greenify",
     paragraph:
       "A dedicated environmental forum where individuals can discuss and promote sustainability initiatives.",
     url: "https://greenify-seven.vercel.app/",
   },
   {
-    img: "public/images/Museum_thumbnail.png",
+    img: "images/Museum_thumbnail.png",
     title: "War Remnants Museum",
     paragraph:
       "Discover Vietnam's wartime history through impactful exhibits and heartfelt narratives at the War Remnants Museum, offering a profound understanding of the past.",
