@@ -11,13 +11,14 @@ var dataJson = [
     },{
         "name": "NEXTJS",
         "width": "65%"
-    },{
-        "name": "Java",
-        "width": "40%"
-    }, {
-        "name": "PYTHON",
-        "width": "45%"
-    }
+        }
+    // },{
+    //     "name": "Java",
+    //     "width": "40%"
+    // }, {
+    //     "name": "PYTHON",
+    //     "width": "45%"
+    // }
 ];
 
 var raw_html = "";
