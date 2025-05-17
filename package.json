@@ -1,0 +1,21 @@
+{
+  "name": "khanhton-s-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Website using HTML CSS JS and JQ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngckhanh/KhanhTon-s-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ngckhanh/KhanhTon-s-portfolio/issues"
+  },
+  "homepage": "https://github.com/ngckhanh/KhanhTon-s-portfolio#readme"
+}
