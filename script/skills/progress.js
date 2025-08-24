@@ -6,6 +6,10 @@ var dataJson = [
         "name": "UI/UX DESIGN",
         "width": "75%"
     }, {
+        "name": "JAVASCRIPT",
+        "width": "70%"
+    },
+    {
         "name": "REACTJS",
         "width": "70%"
     },{

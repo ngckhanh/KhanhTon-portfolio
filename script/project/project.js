@@ -1,7 +1,14 @@
 var dataJson = [
   {
+    img: "images/Origity_thumbnail.png",
+    title: "Origity | e-Commerce Platform for Digital Watermarking Images",
+    paragraph:
+      "Origity is an innovative e-commerce platform where every product image is securely protected with invisible watermarking technology, ensuring authenticity and preventing unauthorized use.",
+    url: "https://origity.store/",
+  },
+  {
     img: "images/BachDuong_thumbnail.png",
-    title: "BachDuong.app",
+    title: "BachDuong | IELTS Speaking Practice Website ",
     paragraph:
       "Enhance your IELTS Speaking and Writing skills with BachDuong. Our platform offers detailed resources and personalized support to help you improve effectively.",
     url: "https://bachduong.app/",
@@ -15,14 +22,14 @@ var dataJson = [
   },
   {
     img: "images/Greenify_thumbnail.png",
-    title: "Greenify",
+    title: "Greenify | nvironmental Forum Website ",
     paragraph:
       "A dedicated environmental forum where individuals can discuss and promote sustainability initiatives.",
     url: "https://greenify-seven.vercel.app/",
   },
   {
     img: "images/Museum_thumbnail.png",
-    title: "War Remnants Museum",
+    title: "War Remnants Museum Website",
     paragraph:
       "Discover Vietnam's wartime history through impactful exhibits and heartfelt narratives at the War Remnants Museum, offering a profound understanding of the past.",
     url: "https://ucd-museum-19.vercel.app/",

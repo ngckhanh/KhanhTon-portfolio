@@ -1,8 +1,8 @@
 var dataJson = [
     {
-        "link":"https://www.instagram.com/_ngckhanh/",
-        "title":"Instagram",
-        "icon":"./res/instagram.svg"
+        "link":"https://www.linkedin.com/in/tonnungockhanh0706/",
+        "title":"LinkedIn",
+        "icon":"./res/linkedin.svg"
     },
     {
         "link":"https://github.com/ngckhanh",
